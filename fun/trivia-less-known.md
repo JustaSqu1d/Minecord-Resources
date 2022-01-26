@@ -25,3 +25,4 @@ Minecord has a history of resets. Whether it be the Minecord 2.0, Minecord Class
 There have been a total of 6 events. All of which introduced at least a new tool. There has been a Christmas 2019, Coronavirus event, Infection event, Halloween 2020 event, Christmas 2020 event, and an Easter 2021 event. The Coronavirus event ended with a reset, so the Infection event has been hosted for compensation.
 
 ###
+

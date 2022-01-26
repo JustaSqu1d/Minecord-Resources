@@ -16,17 +16,17 @@ When you check your stats on your inventory or advancements, it's ordered mines,
 
 ### 3. Inventory Embed Colors
 
-The default inventory's embed color is orange, but Patreon donators get their own shade. The embed color matches their subscription tier.
+The default inventory's embed color is orange, but Patreon donators get their own shade. The embed color matches their subscription tier.&#x20;
 
 ### 4. There is a different Minecord!
 
-Minecord is also the name of a Discord Minecraft plugin that allows Discord and Minecraft to communicate with one another.
+Minecord is also the name of a Discord Minecraft plugin that allows Discord and Minecraft to communicate with one another.&#x20;
 
 ### 5. Boss keys can only be found with the mine command!
 
 No matter how hard you try, fighting mobs and chopping trees do not drop boss keys. I guess you get the boss keys from mining into dungeons...
 
-### 6. Minecord is coded with JavaScript!
+### 6. Minecord is coded with javascript!
 
 The developer coded Minecord with discord.js. However, Minecraft was coded with Java and C++.
 
@@ -45,3 +45,4 @@ Panicakr, a discord.js developer has made a handful of bots, including Fishcord,
 ### 10. Well...
 
 I'll leave the last one to you! Who knows what surprises you might find along the way! Let's get mining!
+

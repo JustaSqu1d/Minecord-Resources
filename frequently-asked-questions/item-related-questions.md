@@ -14,7 +14,7 @@ Boss keys can be used to summon and fight the Wither, or they can be used to att
 
 ## What do Nether Stars do?
 
-Nether stars are given upon the Wither's defeat. Usually, players obtain one nether star, but looting improves the chances to provide the player with two nether stars. Nether stars give you a slight Exp. multiplier for the next 24 hours.
+Nether stars are given upon the Wither's defeat. Usually, players obtain one nether star, but looting improves the chances to provide the player with two nether stars. Nether stars give you a slight Exp. multiplier for the next 24 hours.&#x20;
 
 ## How do enchantments work?
 
@@ -24,13 +24,15 @@ Enchantments will apply to all of your tools. For example, fortune will apply to
 
 Emeralds are among the most common items you receive. They are only used for two purposes: Heals during Wither fights and Rebirth. Lapis is used for purchasing enchantments. Redstone is used for buying autominers. Tokens are used to buy Omnitools, a donator exclusive.
 
+
+
 ## How do I get unbanned?
 
 Join the [Minecord Support Server](https://discord.gg/n8h5nvq). Then, in #support, send a screenshot containing the verification request with your attempts to answer the verification. Then, wouldn't you mind waiting patiently for a staff member who may ask you for a few questions or additional screenshots? Then you can be unbanned if you possess the evidence needed.
 
 ## How to change the current tool?
 
-You just spent that 1k on the nice stone pickaxe. But when you mine, you find yourself still using the wooden pickaxe. Fret not! You can do `m!equip stone pickaxe`! You can still switch back to your wooden pickaxe with `m!equip wood pickaxe`.
+You just spent that 1k on the nice stone pickaxe. But when you mine, you find yourself still using the wooden pickaxe. Fret not! You can do `m!equip stone pickaxe`!  You can still switch back to your wooden pickaxe with `m!equip wood pickaxe`.
 
 ## How to fight the Ender Dragon?
 
