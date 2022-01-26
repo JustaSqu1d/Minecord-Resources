@@ -10,7 +10,7 @@ Panicakr, the Minecord developer, has been seen playing Terraria, League of Lege
 
 ### Useless Emeralds
 
-If you think Emeralds were useless now, it was nothing to how they were back in Minecord Classic 1.0.0. You just received them from level-ups, but nothing to spend on. Fortunately, tools that could be bought with emeralds and even a wither that you could summon.
+If you think Emeralds were useless now, it was nothing to how they were back in Minecord Classic 1.0.0. You just received them from level-ups, but nothing to spend on. Fortunately, tools were added later that could be bought with emeralds and even a wither that you could summon.
 
 ### Quirky Lapis
 
