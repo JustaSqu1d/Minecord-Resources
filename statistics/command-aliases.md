@@ -1,8 +1,7 @@
 # Command Aliases
 
-| Command      | Alias(es)            |
-| ------------ | -------------------- |
 | enderdragon  | ed                   |
+| ------------ | -------------------- |
 | chop         | c                    |
 | fight        | f                    |
 | mine         | m                    |

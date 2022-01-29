@@ -14,7 +14,7 @@ Experience is gained through progressive commands (`m!mine`, `m!fight`, `m!chop`
 
 When leveled up to the next level, the user will receive X emeralds in accordance to the X level they have leveled up to. Every 10th level, the user will receive a single piece of lapis.&#x20;
 
-![Fellow player leveling up.](<../.gitbook/assets/image (5).png>)
+![Fellow player leveling up.](<../.gitbook/assets/image (5) (1).png>)
 
 ### Experience Multipliers
 

@@ -9,9 +9,10 @@
 
 ## Stats <a href="#statistics" id="statistics"></a>
 
-* [Experience](statistics/experience.md)
 * [Command Aliases](statistics/command-aliases.md)
 * [Changelog](statistics/changelog.md)
+* [Experience](statistics/experience.md)
+* [Omnitool](statistics/omnitool.md)
 
 ## Fun
 
