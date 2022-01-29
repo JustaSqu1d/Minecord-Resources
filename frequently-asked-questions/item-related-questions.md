@@ -38,7 +38,7 @@ On the first week of every month, you can run the command `m!enderdragon` or `m!
 
 ## How does an autominer work?
 
-Autominers give the user items like what you would receive normally. They will be added automatically to the user's inventory. When the autominer has elapsed, the user will receive a DM regarding the autominer's summary.
+[Autominers](../statistics/autominer.md) give the user items like what you would receive normally. They will be added automatically to the user's inventory. When the autominer has elapsed, the user will receive a DM regarding the autominer's summary.
 
 ## What are Omnitools?
 
