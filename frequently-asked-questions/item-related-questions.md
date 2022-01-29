@@ -26,7 +26,7 @@ Emeralds are among the most common items you receive. They are only used for two
 
 ## How do I get unbanned?
 
-Join the [Minecord Support Server](https://discord.gg/n8h5nvq). Then, in #support, send a screenshot containing the verification request with your attempts to answer the verification. Then, wouldn't you mind waiting patiently for a staff member who may ask you for a few questions or additional screenshots? Then you can be unbanned if you possess the evidence needed.
+Join the [Minecord Support Server](https://discord.gg/n8h5nvq). Then, in #support, send a screenshot containing the verification request with your attempts to answer the verification. Then, wouldn't you mind waiting patiently for a staff member who may ask you for a few questions or additional screenshots? Alas, you can be unbanned if you possess the evidence needed.
 
 ## How to change the current tool?
 

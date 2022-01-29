@@ -20,13 +20,13 @@ The default inventory's embed color is orange, but Patreon donators get their ow
 
 ### 4. There is a different Minecord!
 
-Minecord is also the name of a Discord Minecraft plugin that allows Discord and Minecraft to communicate with one another.&#x20;
+Minecord is also the name of a Discord-Minecraft plugin that allows Discord and Minecraft to communicate with one another.&#x20;
 
 ### 5. Boss keys can only be found with the mine command!
 
 No matter how hard you try, fighting mobs and chopping trees do not drop boss keys. I guess you get the boss keys from mining into dungeons...
 
-### 6. Minecord is coded with javascript!
+### 6. Minecord is coded with JavaScript!
 
 The developer coded Minecord with discord.js. However, Minecraft was coded with Java and C++.
 
