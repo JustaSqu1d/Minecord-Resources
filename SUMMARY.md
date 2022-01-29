@@ -9,6 +9,7 @@
 
 ## Stats <a href="#statistics" id="statistics"></a>
 
+* [Autominer](statistics/autominer.md)
 * [Command Aliases](statistics/command-aliases.md)
 * [Changelog](statistics/changelog.md)
 * [Experience](statistics/experience.md)

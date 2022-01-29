@@ -21,3 +21,8 @@ You also cannot skip Omnitool tiers. So in order to reach Omega you must purchas
 | Charge Gains\*        | 270,514 | 658,719 | 988,150 |
 
 \*based on Ultimate Tools (% gained also apply to other tool tiers)
+
+{% hint style="info" %}
+Statistics provided by Dominion#3229
+{% endhint %}
+
