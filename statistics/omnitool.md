@@ -12,6 +12,10 @@ You also cannot skip Omnitool tiers. So in order to reach Omega you must purchas
 
 ![Omnitools prices](<../.gitbook/assets/image (5).png>)
 
+Players can use `m!omni` or `m!o` to check their charging progress. When fully charged, players can tap the Collect button to receive items.
+
+![Omni Command](<../.gitbook/assets/image (6).png>)
+
 ### Statistics
 
 |                       | Beta    | Alpha   | Omega   |
