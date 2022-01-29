@@ -24,8 +24,6 @@ Enchantments will apply to all of your tools. For example, fortune will apply to
 
 Emeralds are among the most common items you receive. They are only used for two purposes: Heals during Wither fights and Rebirth. Lapis is used for purchasing enchantments. Redstone is used for buying autominers. Tokens are used to buy Omnitools, a donator exclusive.
 
-
-
 ## How do I get unbanned?
 
 Join the [Minecord Support Server](https://discord.gg/n8h5nvq). Then, in #support, send a screenshot containing the verification request with your attempts to answer the verification. Then, wouldn't you mind waiting patiently for a staff member who may ask you for a few questions or additional screenshots? Then you can be unbanned if you possess the evidence needed.
@@ -42,8 +40,8 @@ On the first week of every month, you can run the command `m!enderdragon` or `m!
 
 Autominers give the user items like what you would receive normally. They will be added automatically to the user's inventory. When the autominer has elapsed, the user will receive a DM regarding the autominer's summary.
 
-## What are omnitools?
+## What are Omnitools?
 
-Omnitools are semi-auto miners. They can give you resources when you issue enough commands. These resources can be collected with `m!omni`.
+[Omnitools](https://just-a-squid.gitbook.io/minecord-1/v/minecord/statistics/omnitool) are semi-auto miners. They can give you resources when you issue enough commands. These resources can be collected with `m!omni`.
 
 ##
