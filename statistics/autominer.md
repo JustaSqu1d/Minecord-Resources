@@ -22,6 +22,6 @@ Autominers are a boost that will give the user money according to what their cur
 \*Fully-powered Ultimate tool
 
 {% hint style="info" %}
-Statistics provided Dominion#3229
+Statistics provided by Dominion#3229
 {% endhint %}
 
