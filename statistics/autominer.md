@@ -8,7 +8,7 @@ description: What is an Autominer, how do they work, and why they matter?
 
 Autominers are a boost that will give the user money according to what their current tool is. Autominers can be purchased with redstone. Purchasing an Autominer when one is already active will increase its duration. All autominer tiers have the same "time to redstone" ratio.
 
-![Autominer Shop](<../.gitbook/assets/image (6) (1) (1).png>)
+![Autominer Shop](<../.gitbook/assets/image (6) (1) (1) (1).png>)
 
 ### Statistics
 

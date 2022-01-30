@@ -26,7 +26,7 @@ This event is the longest-lasting event, spanning over a month. Users collected 
 
 ![Bat Axe](<../.gitbook/assets/image (12).png>)
 
-![Candy Corn Sword](<../.gitbook/assets/image (7).png>)
+![Candy Corn Sword](<../.gitbook/assets/image (7) (1).png>)
 
 ![Pump-kin Pick-axe](<../.gitbook/assets/image (8).png>)
 
@@ -34,11 +34,13 @@ This event is the longest-lasting event, spanning over a month. Users collected 
 
 This is arguable one of the best events of Minecord. Users collected snow via an event command `m!dig`, yielding 1-3 snow. One could also donate for a diamond shovel that could dig 3-6 snow. After collecting 1000 snow, users could purchase a Christmas Sword (used the 2019 texture) that dropped 1-2 snowballs that sold for 20 (later changed to 2020). After collecting 2020 snowballs and 2020 snow, players could redeem the best event pickaxe of alltime, the 2020 Pickaxe. This pickaxe mined 1-2 TNT that sold for 2020. Unlike previous events, all event items were tradeable from start to finish.
 
-![2020 Pick-axe](<../.gitbook/assets/image (6).png>)
+![2020 Pick-axe](<../.gitbook/assets/image (6) (1).png>)
 
 ### Easter 2021 \[Minecord Classic]
 
 Argueably the most underwelming event. Users received an Easter Axe, that could be used to collect Easter Eggs (with a Easter Bunny) which its prices increase by 50 for every 100 chops with the Easter Axe. Furthermore, the Easter Axe changed texture for every 100 chops as well. This event lasted for approximatly a week.
+
+![EasterAxe Final](<../.gitbook/assets/image (6).png>)
 
 ### Minecord 2nd Anniversary \[Minecord 2.0] (Canceled)
 
