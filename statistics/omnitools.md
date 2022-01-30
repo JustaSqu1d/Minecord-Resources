@@ -2,7 +2,7 @@
 description: What are Omnitools and what do they do?
 ---
 
-# Omnitool
+# Omnitools
 
 ### Introduction
 
@@ -31,7 +31,7 @@ Players can use `m!omni` or `m!o` to check their charging progress. When fully c
 | ------- | ---------------------------- | ------------------------- | ----------------- |
 | mine    | 1                            | 1,000                     | 12                |
 | fight   | 8                            | 125                       | 12                |
-| chop    | 0                            | ∞                         |                   |
+| chop    | 0                            | ∞                         | 0                 |
 
 {% hint style="info" %}
 Statistics provided by Dominion#3229
