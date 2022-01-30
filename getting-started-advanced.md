@@ -12,7 +12,7 @@ After receiving your tools from `m!start`, you can use the `m!vote` command to v
 
 ### Iron tools headstart!
 
-So purchase Iron Sword and Iron Axe, if possible, Pickaxe as well. By using this strategy, you will skip stone tools entirely. By using a Minecord Assistant, players can grind more efficiently, and gain more money in a short time. Keep grinding until you have enough to purchase a gold tool, buy a gold sword, followed by its axe, finally its pickaxe counterpart. Don't forget to vote periodically, as well (lapis and redstone will be proven useful)!
+So purchase Iron Sword and Iron Axe, if possible, Pickaxe as well. By using this strategy, you will skip stone tools entirely. By using a Minecord Assistant, players can grind more efficiently, and gain more money in a short time. Keep grinding until you have enough to purchase a gold tool, buy a gold sword, followed by its axe, finally its pickaxe counterpart. Don't forget to vote periodically, as well (lapis and redstone will be proven useful, but don't sell them this time)!
 
 ### Diamond Tools and Beyond!
 

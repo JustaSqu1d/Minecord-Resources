@@ -13,6 +13,7 @@
 * [Autominer](statistics/autominer.md)
 * [Changelog](statistics/changelog.md)
 * [Command Aliases](statistics/command-aliases.md)
+* [Enchantments](statistics/enchantments.md)
 * [Events](statistics/events.md)
 * [Experience](statistics/experience.md)
 * [Omnitools](statistics/omnitools.md)
