@@ -24,7 +24,7 @@ After Minecord's reboot, this event has been hosted again, but instead of collec
 
 This event is the longest-lasting event, spanning over a month. Users collected candy (recycled from Christmas 2019). When a user collected 1000 candies, players could buy a Pumpkin Pickaxe, Candy Core Sword, or a Bat Axe. Pumpkin Pickaxe dropped 3-5 Pumpkins that sold for 54. Candy Corn Sword slain ghasts for 19-34 Ghast Tear which sold for 20 each. Bat Axe chopped 5-10 Warped Hyphae that sold for 25. Similar to the Infection event, players could trade near the end of the event.
 
-![Bat Axe](<../.gitbook/assets/image (12).png>)
+![Bat Axe](<../.gitbook/assets/image (12) (1).png>)
 
 ![Candy Corn Sword](<../.gitbook/assets/image (7) (1).png>)
 
