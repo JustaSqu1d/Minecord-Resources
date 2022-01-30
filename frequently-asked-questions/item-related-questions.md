@@ -14,13 +14,13 @@ Boss keys can be used to summon and fight the Wither, or they can be used to att
 
 ## What do Nether Stars do?
 
-Nether stars are given upon the Wither's defeat. Usually, players obtain one nether star, but looting improves the chances to provide the player with two nether stars. Nether stars give you a slight Exp. multiplier for the next 24 hours.&#x20;
+[Nether stars](https://just-a-squid.gitbook.io/minecord-1/v/minecord/statistics/experience#nether-stars) are given upon the Wither's defeat. Usually, players obtain one nether star, but looting improves the chances to provide the player with two nether stars. Nether stars give you a slight Exp. multiplier for the next 24 hours.&#x20;
 
 ## How do enchantments work?
 
-Enchantments will apply to all of your tools. For example, fortune will apply to all of your pickaxes. If you purchase an enchantment, then a pickaxe. The newly purchased pickaxes will also receive the enchantment. Efficiency is the only enchantment to apply to commands and not tools. For information on an enchantment, you can do `m!info <enchantment>`.
+[Enchantments](https://just-a-squid.gitbook.io/minecord-1/v/minecord/statistics/enchantments#introduction) will apply to all of your tools. For example, fortune will apply to all of your pickaxes. If you purchase an enchantment, then a pickaxe. The newly purchased pickaxes will also receive the enchantment. Efficiency is the only enchantment to apply to commands and not tools. For information on an enchantment, you can do `m!info <enchantment>`.
 
-## What are emeralds, lapis, redstone, and tokens used for?
+## What are Emeralds, Lapis, Redstone, and Tokens used for?
 
 Emeralds are among the most common items you receive. They are only used for two purposes: Heals during Wither fights and Rebirth. Lapis is used for purchasing enchantments. Redstone is used for buying autominers. Tokens are used to buy Omnitools, a donator exclusive.
 
