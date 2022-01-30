@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Getting Started!](README.md)
+* [Getting Started (Advanced)](getting-started-advanced.md)
 
 ## Frequently Asked Questions
 
@@ -12,9 +13,9 @@
 * [Autominer](statistics/autominer.md)
 * [Command Aliases](statistics/command-aliases.md)
 * [Changelog](statistics/changelog.md)
+* [Events](statistics/events.md)
 * [Experience](statistics/experience.md)
 * [Omnitool](statistics/omnitool.md)
-* [Events](statistics/events.md)
 
 ## Fun
 

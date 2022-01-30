@@ -27,11 +27,11 @@ Players can use `m!omni` or `m!o` to check their charging progress. When fully c
 
 \*based on Ultimate Tools (% gained also apply to other tool tiers)
 
-| Command | Points contributed to Charge | Commands needed to Charge |
-| ------- | ---------------------------- | ------------------------- |
-| mine    | 1                            | 1,000                     |
-| fight   | 8                            | 125                       |
-| chop    | 0                            | ∞                         |
+| Command | Points contributed to Charge | Commands needed to Charge | Points per Minute |
+| ------- | ---------------------------- | ------------------------- | ----------------- |
+| mine    | 1                            | 1,000                     | 12                |
+| fight   | 8                            | 125                       | 12                |
+| chop    | 0                            | ∞                         |                   |
 
 {% hint style="info" %}
 Statistics provided by Dominion#3229
