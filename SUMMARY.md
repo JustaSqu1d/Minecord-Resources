@@ -14,6 +14,7 @@
 * [Changelog](statistics/changelog.md)
 * [Experience](statistics/experience.md)
 * [Omnitool](statistics/omnitool.md)
+* [Events](statistics/events.md)
 
 ## Fun
 

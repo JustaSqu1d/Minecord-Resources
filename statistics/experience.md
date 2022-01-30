@@ -8,7 +8,7 @@ description: Leveling up? Isn't there a faster way to do it?
 
 Experience is gained through progressive commands (`m!mine`, `m!fight`, `m!chop`). Experience can be used to level up.
 
-<table><thead><tr><th>Command</th><th data-type="number">Default Cooldown</th><th data-type="number">Experience per usage</th></tr></thead><tbody><tr><td>Mine</td><td>5</td><td>10</td></tr><tr><td>Fight</td><td>40</td><td>40</td></tr><tr><td>Chop</td><td>60</td><td>60</td></tr></tbody></table>
+<table><thead><tr><th>Command</th><th data-type="number">Default Cooldown</th><th data-type="number">Experience per usage</th><th data-type="number">Experience per second</th></tr></thead><tbody><tr><td>Mine</td><td>5</td><td>10</td><td>2</td></tr><tr><td>Fight</td><td>40</td><td>40</td><td>1</td></tr><tr><td>Chop</td><td>60</td><td>60</td><td>1</td></tr></tbody></table>
 
 ### Levels
 
