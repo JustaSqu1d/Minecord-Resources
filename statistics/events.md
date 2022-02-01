@@ -6,7 +6,7 @@ description: All Minecord events to date.
 
 ### Christmas 2019 \[Minecord Origins]
 
-The first-ever event from Minecord started with players collecting when mining. When they found 1000 pieces of candy, players could purchase a Christmas Sword. This Christmas Sword killed Snow Golems and dropped snowballs.
+The first-ever event from Minecord started with players collecting when mining. When they found 1000 pieces of candy, players could purchase a Christmas Sword. This Christmas Sword killed Snow Golems and dropped Snowballs.
 
 ![Christ-mas Sword](<../.gitbook/assets/image (10).png>)
 
@@ -14,7 +14,7 @@ The first-ever event from Minecord started with players collecting when mining. 
 
 This event took place in April, players collected germs from fighting Zombies/Drowndeds. These would have a chance to drop a germ. Upon collecting 1000 germs, players could redeem a Coronavirus Sword. Sadly, this event ended in a glitch corrupting the Minecord database, so only one player actually got the sword.
 
-![Cor-onavius Sword](<../.gitbook/assets/image (11).png>)
+![Cor-ona-virus Sword](<../.gitbook/assets/image (11).png>)
 
 ### Infection 2020 \[Minecord Classic]
 
@@ -38,13 +38,13 @@ This is arguable one of the best events of Minecord. Users collected snow via an
 
 ### Easter 2021 \[Minecord Classic]
 
-Argueably the most underwelming event. Users received an Easter Axe, that could be used to collect Easter Eggs (with a Easter Bunny) which its prices increase by 50 for every 100 chops with the Easter Axe. Furthermore, the Easter Axe changed texture for every 100 chops as well. This event lasted for approximatly a week.
+Arguably the most underwhelming event. Users received an Easter Axe, that could be used to collect Easter Eggs (with an Easter Bunny) which its prices increase by 50 for every 100 chops with the Easter Axe. Furthermore, the Easter Axe changed texture for every 100 chops as well. This event lasted for approximately a week.
 
 ![EasterAxe Final](<../.gitbook/assets/image (6).png>)
 
 ### Minecord 2nd Anniversary \[Minecord 2.0] (Canceled)
 
-This event rumored to occur, but never actually came.
+This event was rumored to occur, but never actually came.
 
 ### Halloween 2021 \[Minecord 2.0] (Canceled)
 

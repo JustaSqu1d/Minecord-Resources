@@ -40,7 +40,7 @@ Technically, 2 siblings, Minecord Classic and Minecord Mod. Minecord Mod was a m
 
 ### 9. Minecord was created by Panicakr.
 
-Panicakr, a discord.js developer has made a handful of bots, including Fishcord, Minecord, Xperience, and Quizcord!
+Panicakr, a discord.js developer has made a handful of bots other than Minecord, including Fishcord, Minecord, Xperience, and Quizcord!
 
 ### 10. Well...
 
