@@ -22,7 +22,7 @@ Boss keys can be used to summon and fight the Wither, or they can be used to att
 
 ## What are Emeralds, Lapis, Redstone, and Tokens used for?
 
-Emeralds are among the most common items you receive. They are only used for two purposes: Heals during Wither fights and Rebirth. Lapis is used for purchasing enchantments. Redstone is used for buying autominers. Tokens are used to buy Omnitools, a donator exclusive.
+Emeralds are among the most common items you receive. They are only used for two purposes: Heals during Wither fights and Rebirth. Lapis is used for purchasing enchantments. Redstone is used for buying autominers. Tokens are used to buy Omnitools, a donator exclusive. All three are received from voting, but emeralds and lapis are also received upon [leveling up](https://just-a-squid.gitbook.io/minecord-1/statistics/experience#levels).
 
 ## How do I get unbanned?
 
