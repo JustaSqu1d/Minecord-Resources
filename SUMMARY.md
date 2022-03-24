@@ -4,7 +4,7 @@
 
 ## Frequently Asked Questions
 
-* [Frequently Asked Questions](frequently-asked-questions/item-related-questions.md)
+* [Frequently Asked Questions](frequently-asked-questions/frequently-asked-questions.md)
 * [Contribute](frequently-asked-questions/contribute.md)
 
 ## Stats <a href="#statistics" id="statistics"></a>

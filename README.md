@@ -1,14 +1,14 @@
 ---
-description: In this page, you will learn how to create your own Minecord account!
+description: In this page, you will learn how to create your own Minecord Classic account!
 ---
 
 # Getting Started!
 
-If you want to start playing Minecord, find a server with Minecord on its member list and type`m!start` in the chat! After doing so, you will receive a set of wooden tools, a wooden pickaxe, a wooden sword, and a wooden axe!
+If you want to start playing Minecord Classic , find a server with Minecord on its member list and type `m!start` in the chat! After doing so, you will receive a set of wooden tools, a wooden pickaxe, a wooden sword, and a wooden axe!
 
 ### Now, what can I do with them?
 
-You can use `m!mine` for mining with your pickaxe, `m!fight` to fight mobs with your sword, and `m!chop` for chopping trees! Spamming these commands wouldn't help, though! Each command has a 5-second, 40-second, and 60-second cooldown respectively.
+You can use `m!mine` for mining with your pickaxe, `m!fight` to fight mobs with your sword, and `m!chop` for chopping trees! Spamming these commands wouldn't help, though! Each command has a 5-second, 40-second, and 60-second cooldown, respectively.
 
 ### I got items, what's next?
 
@@ -26,6 +26,6 @@ Did you know instead of typing `m!mine` you can type `m!m` instead? It also work
 
 #### Stuck anywhere?
 
-Feel free to join the [Minecord support server](https://discord.gg/n8h5nvq)! Ask your questions there and get responses to them!
+Feel free to join the [Minecord Classic support server](https://discord.gg/pReP2fTYzX)! Ask your questions there and get responses to them!
 
 ### Well, what are you waiting for? Let's get mining!

@@ -6,7 +6,7 @@ description: Here are some frequently asked questions answered for your reading 
 
 ## Wait, what happened to my previous account?
 
-If you were using Minecord before August 31st, 2021, your previous items and stats are in [Minecord Classic](https://ptb.discord.com/channels/739822344377335850/739822484731461642/878287138196709456). You can join the server by clicking [here](https://discord.gg/pReP2fTYzX) or use the command `m!classic`.
+If you were using Minecord before August 31st, 2021, your previous items and stats are in [Minecord Classic](https://discord.com/channels/739822344377335850/739822484731461642/878287138196709456). You can join the server by clicking [here](https://discord.gg/pReP2fTYzX) or use the command `m!classic`.
 
 ## What do Boss Keys do?
 
