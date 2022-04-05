@@ -7,6 +7,10 @@
 * [Frequently Asked Questions](frequently-asked-questions/frequently-asked-questions.md)
 * [Contribute](frequently-asked-questions/contribute.md)
 
+## guide
+
+* [Stone to Diamond](guide/stone-to-diamond.md)
+
 ## Stats <a href="#statistics" id="statistics"></a>
 
 * [Experience](statistics/experience.md)
