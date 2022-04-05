@@ -12,11 +12,11 @@ These can be purchased with a a few hundreds for lapis. Fortune increases Pickax
 
 The suggested order of purchase is Looting 1, Fortune 1, Looting 2, Fortune 2, Efficiency, Looting 3, Fortune 3, Sharpness 1, Sharpness 2, Sharpness 3. This order can be altered to personal preference.
 
-The detailed guide can be seen here.
+The detailed statistics can be seen [here.](https://docs.google.com/spreadsheets/d/1tfm24k199gKojgjT5Z0aIkNQ3rKTz9vLJSP5xVDbEn0/edit?usp=sharing)
 
 # Armor
 
-Armor decreases fight cooldown to as low as 10 seconds. It is often said to skip all armor upgrades and just purchase Netherite Armor. Armor also works well with effiency to lower the cooldown even further.
+Armor decreases fight cooldown to as low as 10 seconds. It is a good strategy to skip all armor upgrades and just purchase Netherite Armor. Armor also works well with effiency to lower the cooldown even further.
 
 # Trading
 
@@ -24,4 +24,4 @@ Trading is a good way to purchase resources. Selling resources to others is not 
 
 # Final Focus
 
-At this point, you should have emeralds to purchase Emerald Tools. Check here for the statistics of every tool, and make your choices wisely. (Tip: emerald axes are a waste of time)
+At this point, you should have emeralds to purchase Emerald Tools. Check [here](https://docs.google.com/spreadsheets/d/1tfm24k199gKojgjT5Z0aIkNQ3rKTz9vLJSP5xVDbEn0/edit?usp=sharing) for the statistics of every tool, and make your choices wisely. (Tip: Emerald axes are a waste of time)
