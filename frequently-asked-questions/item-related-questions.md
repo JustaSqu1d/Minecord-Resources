@@ -22,11 +22,11 @@ Boss keys can be used to summon and fight the Wither, or they can be used to att
 
 ## What are Emeralds, Lapis, Redstone, and Tokens used for?
 
-Emeralds are among the most common items you receive. They are only used for two purposes: Heals during Wither fights and Rebirth. Lapis is used for purchasing enchantments. Redstone is used for buying autominers. Tokens are used to buy Omnitools, a donator exclusive. All three are received from voting, but emeralds and lapis are also received upon [leveling up](https://just-a-squid.gitbook.io/minecord-1/statistics/experience#levels).
+Emeralds are among the most common items you receive. They are only used for two purposes: Heals during Wither fights and Rebirth. Lapis is used for purchasing enchantments(`m!shop enchantments`). Redstone is used for buying [autominers](https://just-a-squid.gitbook.io/minecord-1/statistics/autominer)(`m!shop redstone`). Tokens are used to buy [Omnitools](https://just-a-squid.gitbook.io/minecord-1/statistics/omnitools), chests, boosters and clan-ads(`m!shop tokens`). All three are received from [voting](https://top.gg/bot/625363818968776705/vote), but emeralds and lapis are also received upon [leveling up](https://just-a-squid.gitbook.io/minecord-1/statistics/experience#levels), tokens are recieved from donating(`m!donate).
 
 ## How do I get unbanned?
 
-Join the [Minecord Support Server](https://discord.gg/n8h5nvq). Then, in #support, send a screenshot containing the verification request with your attempts to answer the verification. Then, wouldn't you mind waiting patiently for a staff member who may ask you for a few questions or additional screenshots? Alas, you can be unbanned if you possess the evidence needed.
+Join the [Minecord Support Server](https://discord.gg/n8h5nvq). Then, in #support, send a uncorpped screenshot containing the verification request with your attempts to answer the verification. Then, wouldn't you mind waiting patiently for a staff member who may ask you for a few questions or additional screenshots? Alas, you can be unbanned if you possess the evidence needed.
 
 ## How to change the current tool?
 
@@ -38,7 +38,7 @@ On the first week of every month, you can run the command `m!enderdragon` or `m!
 
 ## How does an autominer work?
 
-An [autominer](../statistics/autominer.md) gives the user items like what you would receive normally. They will be added automatically to the user's inventory. When the autominer has completely elapsed, the user will receive a DM regarding the autominer's summary.
+An [autominer](https://just-a-squid.gitbook.io/minecord-1/statistics/autominer) gives the user items like what you would receive normally. They will be added automatically to the user's inventory. When the autominer has completely elapsed, the user will receive a DM regarding the autominer's summary.
 
 ## What are Omnitools?
 
