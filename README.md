@@ -18,7 +18,7 @@ You can check your inventory with `m!inventory` and sell them with `m!sell <item
 
 #### You can vote for Minecord for free stuff!
 
-By [voting for Minecord](https://top.gg/bot/625363818968776705/vote), you will receive chests for your rewards. Open the chests with `m!chest <amount>` or `m!chest <all>` for amazing items like emeralds, lapis, and redstone!
+By [voting for Minecord](https://top.gg/bot/625363818968776705/vote), you will receive chests for your rewards. Open the chests with `m!chest <amount>` or `m!chest all` for amazing items like emeralds, lapis, and redstone!
 
 #### Aliases
 
