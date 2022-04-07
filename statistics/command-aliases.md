@@ -1,6 +1,6 @@
 # Command Aliases
 
-| enderdragon  | ed                   |
+| command      | aliases              |
 | ------------ | -------------------- |
 | chop         | c                    |
 | fight        | f                    |
@@ -14,5 +14,6 @@
 | value        | v, networth          |
 | support      | server               |
 | equip        | select               |
+| enderdragon  | ed                   |
 
 If you think we missed anything, feel free to correct me.
