@@ -11,6 +11,7 @@
 ## Stats <a href="#statistics" id="statistics"></a>
 
 * [Autominer](statistics/autominer.md)
+* [Bossfights](statistics/bossfights.md)
 * [Changelog](statistics/changelog.md)
 * [Command Aliases](statistics/command-aliases.md)
 * [Enchantments](statistics/enchantments.md)
