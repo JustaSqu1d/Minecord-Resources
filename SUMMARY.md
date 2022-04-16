@@ -21,5 +21,6 @@
 
 ## Fun
 
+* [Bugs](fun/bugs.md)
 * [Trivia](fun/trivia.md)
 * [Trivia (Less Known)](fun/trivia-less-known.md)
