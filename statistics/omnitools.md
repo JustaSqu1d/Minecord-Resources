@@ -23,9 +23,9 @@ Players can use `m!omni` or `m!o` to check their charging progress. When fully c
 | Additional Profit (%) | 11.35%  | 28.65%  | 40.25%  |
 | Profit per Token (%)  | 0.11%   | 0.08%   | 0.05%   |
 | Charge Gains\*        | 270,514 | 658,719 | 988,150 |
-| Points to charge      | 1,000   | -       | 1,000   |
+| Points to charge      | 1,000   | 1,000   | 1,000   |
 
-\*based on Ultimate Tools with perfect timing (% gained also apply to other tool tiers)
+\*based on Ultimate Tools with perfect timing (% gained also applies to other tool tiers)
 
 | Command | Points contributed to Charge | Commands needed to Charge | Points per Minute (Normal \| Efficiency) |
 | ------- | ---------------------------- | ------------------------- | ---------------------------------------- |
