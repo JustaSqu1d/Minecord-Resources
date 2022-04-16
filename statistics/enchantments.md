@@ -10,6 +10,8 @@ Enchantments have been a staple in Minecord's history. They were one of the majo
 
 Players can purchase Tier 1 Enchantments for 100 Lapis, Tier 2 for 200 Lapis, and the final Tier for 300 Lapis. The only exception is the Efficiency enchantment, which has 1 Tier that costs 750 Lapis.
 
+Fortune increases pickaxe yields. Looting is used likewise for swords, while Sharpness increases sword damage.&#x20;
+
 ![Ench-anted Book](<../.gitbook/assets/image (5).png>)
 
 ![Enchantment Shop](<../.gitbook/assets/image (5) (1).png>)
