@@ -26,7 +26,7 @@ This event is the longest-lasting event, spanning over a month. Users collected 
 
 ![Bat Axe](<../.gitbook/assets/image (12) (1).png>)
 
-![Candy Corn Sword](<../.gitbook/assets/image (7) (1).png>)
+![Candy Corn Sword](<../.gitbook/assets/image (9).png>)
 
 ![Pump-kin Pick-axe](<../.gitbook/assets/image (8).png>)
 
@@ -52,4 +52,4 @@ The Halloween 2021 event was planned, but because of lack of planning, this neve
 
 ### Christmas 2021 \[Minecord 2.0] (Canceled)
 
-This event was hinted by the developer but never made it to Minecord. Reasons for this are unknown.
+This event was hinted at by the developer but never made it to Minecord. Reasons for this are because of "irl stuff", but the developer is still seen to play League of Legends for hours at a time. Since then, the developer has not made any progress towards Minecord development.
