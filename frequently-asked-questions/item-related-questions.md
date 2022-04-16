@@ -14,7 +14,7 @@ Boss keys can be used to summon and fight the Wither, or they can be used to att
 
 ## What do Nether Stars do?
 
-[Nether stars](https://just-a-squid.gitbook.io/minecord-1/v/minecord/statistics/experience#nether-stars) are given upon the Wither's defeat. Usually, players obtain one nether star, but looting improves the chances to provide the player with two nether stars. Nether stars give you a slight XP multiplier for the next 24 hours.&#x20;
+[Nether stars](https://just-a-squid.gitbook.io/minecord-1/v/minecord/statistics/experience#nether-stars) are given upon the Wither's defeat. Usually, players obtain one nether star, but looting improves the chances to provide the player with two nether stars. Nether stars give you a slight XP multiplier for the next 24 hours.
 
 ## How do enchantments work?
 
@@ -22,7 +22,7 @@ Boss keys can be used to summon and fight the Wither, or they can be used to att
 
 ## What are Emeralds, Lapis, Redstone, and Tokens used for?
 
-Emeralds are among the most common items you receive. They are only used for two purposes: Heals during Wither fights and Rebirth. Lapis is used for purchasing enchantments(`m!shop enchantments`). Redstone is used for buying [autominers](https://just-a-squid.gitbook.io/minecord-1/statistics/autominer)(`m!shop redstone`). Tokens are used to buy [Omnitools](https://just-a-squid.gitbook.io/minecord-1/statistics/omnitools), chests, boosters and clan-ads(`m!shop tokens`). All three are received from [voting](https://top.gg/bot/625363818968776705/vote), but emeralds and lapis are also received upon [leveling up](https://just-a-squid.gitbook.io/minecord-1/statistics/experience#levels), tokens are recieved from donating(`m!donate).
+Emeralds are among the most common items you receive. They are only used for two purposes: Heals during Wither fights and Rebirth. Lapis is used for purchasing enchantments(`m!shop enchantments`). Redstone is used for buying [autominers](https://just-a-squid.gitbook.io/minecord-1/statistics/autominer)(`m!shop redstone`). Tokens are used to buy [Omnitools](https://just-a-squid.gitbook.io/minecord-1/statistics/omnitools), chests, boosters and clan-ads(`m!shop tokens`). All three are received from [voting](https://top.gg/bot/625363818968776705/vote), but emeralds and lapis are also received upon [leveling up](https://just-a-squid.gitbook.io/minecord-1/statistics/experience#levels), tokens are recieved from donating(`m!donate`).
 
 ## How do I get unbanned?
 
@@ -30,7 +30,7 @@ Join the [Minecord Support Server](https://discord.gg/n8h5nvq). Then, in #suppor
 
 ## How to change the current tool?
 
-You just spent that 1k on the nice stone pickaxe. But when you mine, you find yourself still using the wooden pickaxe. Fret not! You can do `m!equip stone pickaxe`!  You can still switch back to your wooden pickaxe with `m!equip wood pickaxe`.
+You just spent that 1k on the nice stone pickaxe. But when you mine, you find yourself still using the wooden pickaxe. Fret not! You can do `m!equip stone pickaxe`! You can still switch back to your wooden pickaxe with `m!equip wood pickaxe`.
 
 ## How to fight the Ender Dragon?
 
